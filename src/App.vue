@@ -18,6 +18,7 @@ import { ref } from 'vue';
 <style scoped>
     main {
       background-color: aliceblue;
+      color: black;
       height: 100vh;
       width: 100vw;
       display: flex;
